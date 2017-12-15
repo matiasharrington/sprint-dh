@@ -127,7 +127,8 @@
 				</li>
 			</ul>
             <a id="back-to-top" href="#" class="btn btn-primary btn-lg back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left"><span class="glyphicon glyphicon-chevron-up"></span></a>
-			<h6 id="copyright">Copyright &copy; 2017 Plantex Express SA Todos los derechos reservados</h6>	
+			<h6 id="copyright">Copyright &copy; 2017 Plantex Express SA Todos los derechos reservados</h6>
+            <h6><a href="https://github.com/matiasharrington/sprint-dh/blob/master/readme.md">Disclaimer</a></h6>	
 		</footer>
 	    <!-- Scripts -->
         <script src="/js/jquery.min.js"></script>
